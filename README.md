@@ -2,6 +2,6 @@
 - 👀 I’m interested in web development and design
 - 🌱 I’m currently learning HTML, CSS and Java
 - 💞️ I’m looking to collaborate on creative projects 
-- 📫 How to reach me: send a email to maxinmpires@gmail.com
+- 📫 How to reach me: send a email to maxindevv@gmail.com
 
 My discord: maxinnn
